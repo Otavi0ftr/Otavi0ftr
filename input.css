@@ -1,0 +1,14 @@
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 420px;
+height: 45px;
+border-radius: 10px;
+border: 4px solid #0000008a;
+box-shadow:4px 4px 0px black;
+font-family: inherit;
+font-size: 25px;
+padding-right: 10px;
+padding-left: 10px;
+}
